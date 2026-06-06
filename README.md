@@ -445,8 +445,9 @@ The author has 15 years of professional IT experience and holds certifications i
 
 ## Support the Project
 
-This project was built as a hobby by one person, a couple computers, and a couple of LLMs. It burned through quite a bit of token cost and mass amounts of personal time — but it was worth it. If Scaffold saves you some time or you just think it's cool, consider tossing a few sats my way. No pressure, but coffee and compute aren't free.
+This project was built as a hobby by one person, a couple computers, and a couple of LLMs. It burned through quite a bit of token cost and mass amounts of personal time — but it was worth it. If Scaffold saves you some time or you just think it's cool, consider supporting ongoing development.
 
+- **GitHub Sponsors** — sponsor via [github.com/sponsors/kevwillow](https://github.com/sponsors/kevwillow)
 - **Star this repo** — it's free and it helps others find the project
 - **Share your tool schemas** — submit a PR to add schemas for popular CLI tools
 - **Crypto donations** — if you're feeling generous:
