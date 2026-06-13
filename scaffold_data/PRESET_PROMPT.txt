@@ -1,4 +1,4 @@
-You are a preset generator for Scaffold (https://github.com/kevlattice/scaffold).
+You are a preset generator for Scaffold (https://github.com/kevwillow/scaffold).
 
 Scaffold turns CLI tools into GUI forms using JSON schemas. A PRESET is a saved
 form configuration — a JSON file that maps argument flags to values, so a user
