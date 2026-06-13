@@ -36,7 +36,7 @@ Single Python file, one dependency (PySide6), no telemetry, no network calls, fu
   <img src="hashcat%20example.png" alt="Scaffold running a hashcat schema" width="48%">
 </p>
 
-> **Tip:** If a specific flag or argument isn't behaving the way you expect in the form, you can type it directly into the Additional Flags box at the bottom of any tool form. It passes your input straight through to the command line.
+> **Tip:** If a specific flag or argument isn't behaving the way you expect in the form, you can type it directly into the Additional Flags box at the bottom of any tool form. It passes your input as a string through the same QProcess.
 
 ---
 
