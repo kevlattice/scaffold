@@ -464,4 +464,4 @@ This project was built as a hobby by one person, a couple computers, and a coupl
 
 ## License
 
-Licensed under the GNU Affero General Public License v3.0 — see [LICENSE](LICENSE). Copyright (C) 2026 kevwillow.
+Licensed under the GNU Affero General Public License v3.0 — see [LICENSE](LICENSE). Copyright (C) 2026 Kev Wilson.
