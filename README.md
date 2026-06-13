@@ -9,7 +9,7 @@ Scaffold — Your CLI Tools, but with Buttons
 ![Bundled Tools](https://img.shields.io/badge/bundled%20tools-28%20schemas-orange)
 ![No Shell](https://img.shields.io/badge/shell%3DTrue-never-critical)
 ![Fully Offline](https://img.shields.io/badge/network-fully%20offline-success)
-![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-purple)
+![License](https://img.shields.io/badge/license-AGPL%20v3-blue)
 
 Stop memorizing flags. Start clicking them.
 
@@ -464,4 +464,4 @@ This project was built as a hobby by one person, a couple computers, and a coupl
 
 ## License
 
-PolyForm Noncommercial 1.0.0 — free for personal and noncommercial use. For commercial licensing, contact kev@gurutechnology.services. See [LICENSE](LICENSE) for details.
+Licensed under the GNU Affero General Public License v3.0 — see [LICENSE](LICENSE). Copyright (C) 2026 kevwillow.
