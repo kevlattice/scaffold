@@ -216,7 +216,7 @@ them.
 ## [v2.12.0] — 2026-04-25
 
 Pip-installable packaging. Scaffold can now be installed via
-`pip install git+https://github.com/kevlattice/scaffold.git@v2.12.0`,
+`pip install git+https://github.com/kevwillow/scaffold.git@v2.12.0`,
 which provides a `scaffold` shell command. After install, user data
 (presets, cascades, custom tool schemas) is stored in the platform's
 standard application data directory; bundled files ship as a read-only
