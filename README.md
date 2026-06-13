@@ -218,6 +218,8 @@ If validation reports errors, paste them back into the LLM and ask it to fix the
 
 > **Note:** Complex tools with many flags work best with frontier-level LLMs (Claude Opus, GPT-4, Gemini Pro). Smaller models may truncate output or produce invalid JSON.
 
+**Generate it automatically (Claude Code):** instead of hand-writing a `tools/*.json`, the **scaffold-gui** Claude Code skill generates schemas — and presets — for any CLI. Point it at your tool's `--help`/man page, or run it inside your CLI's repo and it reads the argument-parser source + docs to recover the relationships `--help` can't (mutually-exclusive groups, dependencies, enum choices, real hover descriptions), then validates the output before handing it back. → https://github.com/kevwillow/scaffold-claude-skill
+
 **The manual way:** Copy `tools/example.json`, rename it, and modify it for your tool. The example schema covers all 10 widget types, subcommands, display groups, dependencies, mutual exclusivity, min/max constraints, deprecated and dangerous flags, editable suggestions, and validation patterns.
 
 ### Using tools that aren't on your PATH
